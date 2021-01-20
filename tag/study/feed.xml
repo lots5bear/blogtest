@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://lots5bear.github.io/tag/study/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://lots5bear.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-01-20T14:23:13+09:00</updated>
+  <id>https://lots5bear.github.io/tag/study/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IT Beginner | </title>
+  
+
+  
+    <subtitle>IT 초보자의 공부 기록</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (2)</title>
+      <link href="https://lots5bear.github.io/test03" rel="alternate" type="text/html" title="생활코딩 유튜브 &gt; WEB1-HTML&amp;Internet (2)" />
+      <published>2021-01-18T19:00:00+09:00</published>
+      <updated>2021-01-18T19:00:00+09:00</updated>
+      <id>https://lots5bear.github.io/test03</id>
+      <content type="html" xml:base="https://lots5bear.github.io/test03">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./test02&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./test03&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--view rawpython-table-of-content--&gt;
+
+&lt;p&gt;이 글은 Jekyll 기반의 GitHub 블로그 생성 과정에서 test용으로 올리는 글입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>lots5bear</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="study" />
+      
+
+      
+        <summary type="html">생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet 생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (1) 생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (2)</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (1)</title>
+      <link href="https://lots5bear.github.io/test02" rel="alternate" type="text/html" title="생활코딩 유튜브 &gt; WEB1-HTML&amp;Internet (1)" />
+      <published>2021-01-17T19:00:00+09:00</published>
+      <updated>2021-01-17T19:00:00+09:00</updated>
+      <id>https://lots5bear.github.io/test02</id>
+      <content type="html" xml:base="https://lots5bear.github.io/test02">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./test02&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./test03&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--view rawpython-table-of-content--&gt;
+
+&lt;p&gt;이 글은 Jekyll 기반의 GitHub 블로그 생성 과정에서 test용으로 올리는 글입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>lots5bear</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="study" />
+      
+
+      
+        <summary type="html">생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet 생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (1) 생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (2)</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>IT 초보자의 공부 기록</description>
+    <link>
+    https://lots5bear.github.io</link>
+    
+      
+      <item>
+        <title>생활코딩 유튜브 &gt; WEB1-HTML&amp;Internet (2)</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./test02&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./test03&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--view rawpython-table-of-content--&gt;
+
+</description>
+        
+        <pubDate>Mon, 18 Jan 2021 19:00:00 +0900</pubDate>
+        <link>
+        https://lots5bear.github.io/test03</link>
+        <guid isPermaLink="true">https://lots5bear.github.io/test03</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>생활코딩 유튜브 &gt; WEB1-HTML&amp;Internet (1)</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./test02&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./test03&quot;&gt;생활코딩 유튜브 &amp;gt; WEB1-HTML&amp;amp;Internet (2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--view rawpython-table-of-content--&gt;
+
+</description>
+        
+        <pubDate>Sun, 17 Jan 2021 19:00:00 +0900</pubDate>
+        <link>
+        https://lots5bear.github.io/test02</link>
+        <guid isPermaLink="true">https://lots5bear.github.io/test02</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>(test) Jekyll 강좌(1) - 블로그를 만들어보아요!!</title>
+        
+          <description>&lt;p&gt;이 글은 Jekyll 기반의 GitHub 블로그 생성 과정에서 test용으로 올리는 글입니다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 15 Jan 2021 19:00:00 +0900</pubDate>
+        <link>
+        https://lots5bear.github.io/test01</link>
+        <guid isPermaLink="true">https://lots5bear.github.io/test01</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <link>
+        https://lots5bear.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://lots5bear.github.io/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
